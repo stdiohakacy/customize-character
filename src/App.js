@@ -17,6 +17,7 @@ function App() {
     setSelectedEyes(Math.floor(Math.random() * 24) + 1);
     setSelectedHair(Math.floor(Math.random() * 73) + 1);
     setSelectedMouths(Math.floor(Math.random() * 24) + 1);
+    setSelectedGlasses(Math.floor(Math.random() * 17) + 1);
     setSelectedEyebrows(Math.floor(Math.random() * 15) + 1);
     setSelectedL1(Math.floor(Math.random() * 5) + 1);
     setSelectedL2(Math.floor(Math.random() * 5) + 1);
